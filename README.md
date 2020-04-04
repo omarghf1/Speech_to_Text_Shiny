@@ -4,7 +4,7 @@ This project was done for the Masters program of Business Analytics at Hult Inte
 
 ## File Context
 - "fre_#" (1-9): Excel files that contain the frequency by tokens for each question.
-- server/ ui: These R files, together, allow you to open the Shiny app.
+- server/ ui: These R files, together, allow you to open the R Shiny Dashboard.
 
 ## Project Theme
 This project was based on the question:
