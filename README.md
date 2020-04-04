@@ -1,6 +1,10 @@
 # Speech to Text - R Shiny Dashboard
 
-This project was done for the Masters program of Business Analytics at Hult International Business School. The scope of the project was to select a topic, interview a group of people a speech to text application, then analyze the words used toa rrive at a conclusion.
+This project was done for the Masters program of Business Analytics at Hult International Business School. The scope of the project was to select a topic, interview a group of people using a speech to text application, then analyze the words used to arrive, and arrive at conclusion.
+
+## File Context
+- "fre_#" (1-9): Excel files that contain the frequency by tokens for each question.
+- server/ ui: These R files, together, allow you to open the Shiny app.
 
 ## Project Theme
 This project was based on the question:
